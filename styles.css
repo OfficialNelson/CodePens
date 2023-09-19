@@ -1,0 +1,31 @@
+/* Style the heading */
+h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Center the list */
+ol {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* Center the content within the <ol> */
+}
+
+/* Style list items */
+li {
+    margin: 10px 0;
+}
+
+/* Style links */
+a {
+    text-decoration: none;
+    color: #0074d9; /* Change this color as desired */
+    font-weight: bold;
+}
+
+/* Hover effect for links */
+a:hover {
+    color: #ff4136; /* Change this color as desired */
+}
